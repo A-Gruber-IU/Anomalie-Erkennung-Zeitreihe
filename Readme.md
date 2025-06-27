@@ -1,8 +1,9 @@
 # Timeseries Anomaly Detection for Predictive Maintenance
 
-This repository contains different prototype implementations of anomaly detection algorithms for time series data. The focus is on unsupervised anomaly detection, which means that no labels are provided to the algorithm. This is part of a project in the course Data Analytics and Big Data at the IU International University.
+Dieses Repository ist Teil eines Projekts im Kurs "Data Analytics and Big Data" an der IU Internationale Universität zum Thema Predictive Maintenance. Die Notebooks vergleichen den Einsatz unterschiedlicher unüberwachter Lernalgorithmen zur Anomalie-Erkennung in Zeitreihen.
 
-## Sources
+
+## Quellen
 
 [Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods](https://www.sciencedirect.com/science/article/pii/S0957417424017895)
 
@@ -13,7 +14,7 @@ This repository contains different prototype implementations of anomaly detectio
 [Keras Tutorial - Timeseries anomaly detection using an Autoencoder](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
 
 
-## Datasets:
+## Datensätze
 
 [Numenta Anomaly Benchmark - Machine Temperature System Failure](https://github.com/numenta/NAB/blob/master/data/realKnownCause/machine_temperature_system_failure.csv)
 
