@@ -1,0 +1,5 @@
+tf-nightly[and-cuda]
+numpy
+pandas
+keras
+matplotlib
